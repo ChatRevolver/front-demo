@@ -1,0 +1,9 @@
+{
+  "../modules/video-chat/model/web-rtc.ts -> peerjs": {
+    "id": 5391,
+    "files": [
+      "static/chunks/783.5eb7e303d985833de957.js",
+      "static/chunks/784.ac5e4d7fc7fb5a5fc8e4.js"
+    ]
+  }
+}

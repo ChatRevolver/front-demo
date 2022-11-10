@@ -1,0 +1,20 @@
+{
+  "/api/[...routes]": "pages/api/[...routes].js",
+  "/auth/confirm-email": "pages/auth/confirm-email.html",
+  "/auth/login": "pages/auth/login.html",
+  "/auth/oauth": "pages/auth/oauth.html",
+  "/auth/recovery": "pages/auth/recovery.html",
+  "/auth/recovery/new-password": "pages/auth/recovery/new-password.html",
+  "/auth/sign-up": "pages/auth/sign-up.html",
+  "/dating": "pages/dating.html",
+  "/faq/[slug]": "pages/faq/[slug].js",
+  "/faq": "pages/faq.js",
+  "/": "pages/index.html",
+  "/profile/[id]/call": "pages/profile/[id]/call.html",
+  "/profile/[id]": "pages/profile/[id].html",
+  "/profile/edit": "pages/profile/edit.html",
+  "/profile": "pages/profile.html",
+  "/rating": "pages/rating.html",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html"
+}
